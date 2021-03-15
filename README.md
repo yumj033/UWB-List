@@ -257,7 +257,7 @@ PFSM: output is protocol finite state machine (describing semantic/sequential lo
 | Shim et al. [[68]](#68) | 2020 | FTP | Modbus/TCP, Ethernet/IP |  |  |
 | IPART [[69]](#69) | 2020 |  | Modbus, IEC104, Ethernet/IP |  |  |
 | GrAMeFFSI [[70]](#70) | 2020 |  | Modbus, MQTT |  |  |
-| NetPlier [[71]](#71) | 2021 |  | DHCP, DNP3, FTP, ICMP, Modbus, NTP, SMB, SMB2, TFTP, ZeroAccess |  |  |
+| NetPlier [[71]](#71) | 2021 | FTP | DHCP, DNP3, ICMP, Modbus, NTP, TFTP | SMB, SMB2 | ZeroAccess |
 
 # Source Code [&uarr;](#table-of-contents)
 
