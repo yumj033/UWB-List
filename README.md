@@ -253,6 +253,8 @@ PFSM: output is protocol finite state machine (describing semantic/sequential lo
 | Sun et al. [[67]](#67) | 2020 |  |  |  |  |
 | Shim et al. [[68]](#68) | 2020 | FTP | Modbus/TCP, Ethernet/IP |  |  |
 | IPART [[69]](#69) | 2020 |  | Modbus, IEC104, Ethernet/IP |  |  |
+| GrAMeFFSI [[70]](#70) | 2020 |  | Modbus, MQTT |  |  |
+| NetPlier [[71]](#71) | 2021 |  | DHCP, DNP3, FTP, ICMP, Modbus, NTP, SMB, SMB2, TFTP, ZeroAccess |  |  |
 
 # Source Code [&uarr;](#table-of-contents)
 
@@ -410,3 +412,7 @@ F. Sun, S. Wang, C. Zhang, and H. Zhang, “Clustering of unknown protocol messa
 K. Shim, Y. Goo, M. Lee, and M. Kim, “Clustering method in protocol reverse engineering for industrial protocols,” International Journal of Network Management, Jun. 2020, doi: 10.1002/nem.2126.  [PDF](https://nmlab.korea.ac.kr/publication/published.papers/2020/2020.06_Clustering_method_for_ICS-APRE-IJNM.pdf)
 #### [69]
 X. Wang, K. Lv, and B. Li, “IPART: an automatic protocol reverse engineering tool based on global voting expert for industrial protocols,” International Journal of Parallel, Emergent and Distributed Systems, vol. 35, no. 3, pp. 376–395, May 2020, doi: 10.1080/17445760.2019.1655740. [PDF](https://www.tandfonline.com/doi/full/10.1080/17445760.2019.1655740)
+#### [70]
+Ládi, Gergő and Buttyán, Levente and Holczer, Tamás (2020) GrAMeFFSI: Graph Analysis Based Message Format and Field Semantics Inference For Binary Protocols, Using Recorded Network Traffic. INFOCOMMUNICATIONS JOURNAL, 12 (2). pp. 25-33. ISSN 2061-2079. [PDF](http://real.mtak.hu/116116/1/InfocomJ_2020_2_4_Ladi.pdf)
+#### [71]
+Yapeng Ye (Purdue University), Zhuo Zhang (Purdue University), Fei Wang (Purdue University), Xiangyu Zhang (Purdue University), Dongyan Xu (Purdue University). [PDF](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_4A-5_24531_paper.pdf)
