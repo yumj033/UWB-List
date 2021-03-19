@@ -100,7 +100,8 @@ Please help extending this collection by adding papers to the `tools.ods`.
 | Sun et al. [[67]](#67)             | 2020 | "To measure format similarity of unknown protocol messages in a proper granularity, we propose relative measurements, Token Format Distance (TFD) and Message Format Distance (MFD), based on core rules of Augmented Backus-Naur Form (ABND)." for clustering process Silhouette Coefficient and Dunn Index are used. density based cluster algorithm DBSCAN is used for clustering of messages |
 | Shim et al. [[68]](#68)            | 2020 | Follow up on Goo et al. 2019                                 |
 | NEMETYL. [[69]](#69)               | 2020 | Follow up on Stephan Kleber et al or NEMESYS. 2018           |
-| IPART [[70]](#70) | 2020 | Using extended voting expert algorithm to infer boundaries of fields, otherwise using three phase which are tokenizing, classifying and clustering.| | GrAMeFFSI [[71]](#71) | 2020 | Using GrAMeFFSI, a method based on graph analysis that can infer protocol message formats as well as certain field semantics for binary protocols from network traces.|
+| IPART [[70]](#70) | 2020 | Using extended voting expert algorithm to infer boundaries of fields, otherwise using three phase which are tokenizing, classifying and clustering.|
+| GrAMeFFSI [[71]](#71) | 2020 | Using GrAMeFFSI, a method based on graph analysis that can infer protocol message formats as well as certain field semantics for binary protocols from network traces.|
 | NetPlier [[72]](#72) | 2021 | Build an end-to-end system NETPLIER, which stands for “Probabilistic NETwork ProtocoL Reverse EngIneERing”. It takes network traces as input and produces the final message format. |
 
 # Input and Output [&uarr;](#table-of-contents)
