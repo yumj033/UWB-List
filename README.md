@@ -276,6 +276,7 @@ Most papers do not provide the code used in the research. For the following pape
 | PULSAR [[50]](#50)                 | 2015 | https://github.com/hgascon/pulsar                            |
 | NEMESYS [[61]](#61)                | 2018 | https://github.com/vs-uulm/nemesys                           |
 | Universal Radio Hacker [[63]](#63) | 2019 | https://github.com/jopohl/urh                                |
+|NetPlier [[72]](#72)                | 2021 | https://github.com/netplier-tool/NetPlier                    |
 
 # References [&uarr;](#table-of-contents)
 
