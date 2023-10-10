@@ -1,7 +1,7 @@
 UWB-Research
 ========
 
-List of (automatic) protocol reverse engineering tools/methods/approaches for network protocols<br/>
+List of papers/projects/summaries for Ultra Wideband (UWB) <br/>
 
 This is a collection of 69 scientific papers about (automatic) protocol reverse engineering (PRE) methods and tools. The papers are categorized into different groups so that it is more easy to get an overview of existing solutions based on the problem you want to tackle.<br/>
 
