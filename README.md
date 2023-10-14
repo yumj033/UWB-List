@@ -3,9 +3,9 @@ UWB-Research
 
 List of papers/projects/summaries for Ultra Wideband (UWB) <br/>
 
-This is a collection of 69 scientific papers about (automatic) protocol reverse engineering (PRE) methods and tools. The papers are categorized into different groups so that it is more easy to get an overview of existing solutions based on the problem you want to tackle.<br/>
+This is a collection of more than scientific papers about UWB technology, ranging methods, positioning algorithms, and systems.  The papers are categorized into different groups so that it is more easy to get an overview of existing solutions based on the problem you want to tackle.<br/>
 
-The collection is based on the following three surveys and got extended afterwards:
+The collection is based on the following surveys and got extended afterwards:
 
 * J. Narayan, S. K. Shukla, and T. C. Clancy, “A Survey of Automatic Protocol Reverse Engineering Tools,” ACM Computing Surveys, vol. 48, no. 3, pp. 1–26, Feb. 2016, doi: 10.1145/2840724. [PDF](https://www.researchgate.net/profile/Sandeep_Shukla6/publication/287106642_A_Survey_of_Automatic_Protocol_Reverse_Engineering_Tools/links/5773948208ae1b18a7ddff91/A-Survey-of-Automatic-Protocol-Reverse-Engineering-Tools.pdf)
 * J. Duchêne, C. Le Guernic, E. Alata, V. Nicomette, and M. Kaâniche, “State of the art of network protocol reverse engineering tools,” Journal of Computer Virology and Hacking Techniques, vol. 14, no. 1, pp. 53–68, Feb. 2018, doi: 10.1007/s11416-016-0289-8. [PDF](https://hal.inria.fr/hal-01496958/document)
@@ -15,7 +15,7 @@ Furthermore, there is a very extensive surveys which focuses on the methods and 
 
 * S. Kleber, L. Maile, and F. Kargl, “Survey of Protocol Reverse Engineering Algorithms: Decomposition of Tools for Static Traffic Analysis,” IEEE Communications Surveys & Tutorials, vol. 21, no. 1, pp. 526–561, 2019, doi: 10.1109/COMST.2018.2867544. [PDF](https://oparu.uni-ulm.de/xmlui/bitstream/handle/123456789/11078/COMST2867544.pdf)
 
-Please help extending this collection by adding papers to the `tools.ods`.
+Please help extending this collection by adding papers to the `tools.ods`. 
 
 
 # Table of Contents
@@ -24,7 +24,9 @@ Please help extending this collection by adding papers to the `tools.ods`.
 * [Input and Output](#input-and-output-)
 * [Tested protocols](#tested-protocols-)
 * [Source code](#source-code-)
+* [Open Projects](#open-projects-)
 * [References](#references-)
+
 
 
 # Overview [&uarr;](#table-of-contents)
@@ -268,6 +270,18 @@ PFSM: output is protocol finite state machine (describing semantic/sequential lo
 Most papers do not provide the code used in the research. For the following papers exists (example) code.<br/>
 
 | Name                               | Year | Source Code                                                  |
+| ---------------------------------- | ---- | ------------------------------------------------------------ |
+| PIP [[1]](#1)                      | 2004 | https://web.archive.org/web/20090416234849/http://4tphi.net/~awalters/PI/PI.html |
+| ReverX [[27]](#27)                 | 2011 | https://github.com/jasantunes/reverx                         |
+| Netzob [[34]](#34)                 | 2012 | https://github.com/netzob/netzob                             |
+| PRISMA [[35]](#35)                 | 2012 | https://github.com/tammok/PRISMA/                            |
+| PULSAR [[50]](#50)                 | 2015 | https://github.com/hgascon/pulsar                            |
+| NEMESYS [[61]](#61)                | 2018 | https://github.com/vs-uulm/nemesys                           |
+| Universal Radio Hacker [[63]](#63) | 2019 | https://github.com/jopohl/urh                                |
+|NetPlier [[72]](#72)                | 2021 | https://github.com/netplier-tool/NetPlier                    |
+
+# Open Projects [&uarr;](#table-of-contents)
+| Name                               | Year | Address                                                  |
 | ---------------------------------- | ---- | ------------------------------------------------------------ |
 | PIP [[1]](#1)                      | 2004 | https://web.archive.org/web/20090416234849/http://4tphi.net/~awalters/PI/PI.html |
 | ReverX [[27]](#27)                 | 2011 | https://github.com/jasantunes/reverx                         |
